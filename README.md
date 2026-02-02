@@ -114,20 +114,6 @@ public class CareerGrowth {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilHDK18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilHDK18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilHDK18&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎓 Professional Journey
 
 ```mermaid
@@ -154,21 +140,6 @@ graph LR
 | Test Automation | Maven Build Tool | Communication |
 | Database Testing | SQL Queries | Attention to Detail |
 | Agile Testing | Git Version Control | Quick Learner |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**I'm always open to interesting conversations and collaboration opportunities!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
