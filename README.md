@@ -6,7 +6,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikhilhadke777/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadkenikhil777@gmail.com)
-[![Naukri](https://img.shields.io/badge/Naukri-Profile-blue?style=for-the-badge&logo=indeed&logoColor=white)]((https://www.naukri.com/mnjuser/profile))
+[![Naukri](https://img.shields.io/badge/Naukri-Profile-blue?style=for-the-badge&logo=indeed&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+```
+
+**Notice:** Only **one set of parentheses** `()` around the URL, not two `(()`.
+
+The correct markdown syntax is:
+```
+[![Badge Text](badge-image-url)]([actual-link-url](https://www.naukri.com/mnjuser/profile))
 
 </div>
 
