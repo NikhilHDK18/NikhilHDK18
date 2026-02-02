@@ -4,7 +4,7 @@
   
 ### 🎯 QA Engineer | API Testing Specialist | Automation Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][![BadgeText](badge-image-url)](https://www.linkedin.com/in/nikhilhadke777/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhilhadke777/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hadkenikhil777@gmail.com)
 [![Naukri](https://img.shields.io/badge/Naukri-Profile-blue?style=for-the-badge&logo=indeed&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 ```
